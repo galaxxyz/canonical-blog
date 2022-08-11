@@ -1,0 +1,12 @@
+@import 'node_modules/vanilla-framework';
+@include vanilla;
+
+.p-bordertop--accent {
+  border-top: 3px solid $color-accent;
+}
+
+.flex-space-between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
