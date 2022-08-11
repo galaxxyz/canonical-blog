@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/canonical-blog/static/css/main.62591763.css",
+    "main.js": "/canonical-blog/static/js/main.e635d330.js",
+    "index.html": "/canonical-blog/index.html",
+    "main.62591763.css.map": "/canonical-blog/static/css/main.62591763.css.map",
+    "main.e635d330.js.map": "/canonical-blog/static/js/main.e635d330.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62591763.css",
+    "static/js/main.e635d330.js"
+  ]
+}
